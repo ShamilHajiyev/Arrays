@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\New folder\C#\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\user\Desktop\New folder\C#\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\user\Desktop\New folder\C#\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\user\Desktop\New folder\C#\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\C#\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\user\Desktop\New folder\C#\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\user\Desktop\New folder\C#\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
